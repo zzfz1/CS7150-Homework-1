@@ -1,0 +1,5 @@
+coco_humans
+*.pyc
+__pycache__
+.DS_Store
+.__*
