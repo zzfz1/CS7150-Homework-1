@@ -3,3 +3,4 @@ coco_humans
 __pycache__
 .DS_Store
 .__*
+.ipynb_checkpoints
